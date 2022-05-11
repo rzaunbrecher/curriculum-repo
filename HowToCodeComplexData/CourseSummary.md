@@ -4,3 +4,8 @@
 - Functions on mutually referential data
 - Arbitrary-arity trees
 - Backtracking search
+
+### Week 2: Two One-of Types
+- Generation of cross-product tables when working with two "one-of" data types
+- Use of cross-product tables to generate examples and a template
+- Use of cross-product tables to simplify the functions when possible
