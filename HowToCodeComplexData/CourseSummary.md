@@ -10,3 +10,4 @@
 - Use of cross-product tables to generate examples and a template
 - Use of cross-product tables to simplify the functions when possible
 - Local expressions to encapsulate function definitions & avoid redundant computation
+- Lexical scoping
