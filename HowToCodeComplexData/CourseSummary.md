@@ -11,3 +11,5 @@
 - Use of cross-product tables to simplify the functions when possible
 - Local expressions to encapsulate function definitions & avoid redundant computation
 - Lexical scoping
+
+### Week 3: Abstraction
