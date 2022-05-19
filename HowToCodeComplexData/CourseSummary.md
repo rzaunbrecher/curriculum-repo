@@ -13,3 +13,5 @@
 - Lexical scoping
 
 ### Week 3: Abstraction
+- Identification of functions that are candidates for abstraction
+- Design of abstract functions
