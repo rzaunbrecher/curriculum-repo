@@ -16,3 +16,8 @@
 - Identification of functions that are candidates for abstraction
 - Design of abstract functions
 - Use of built-in abstract functions
+
+### Week 4: Generative Recursion
+- Identification of whether recursive functions use structural or generative recursion
+- Formulation of a termination argument for a recursive function
+- Design of functions that use generative recursion
